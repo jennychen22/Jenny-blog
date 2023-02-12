@@ -248,3 +248,5 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=8080)
 # if __name__ == '__main__':
 #     app.run(debug=True)
+
+#jenny@qq.com, password: 22 was the 1 editior account
